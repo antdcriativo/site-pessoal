@@ -9,11 +9,18 @@ body {
 }
 
 a,
-a:link,
-a:visited {
-	text-decoration: none;
-	color: #BE9466;
-}
+	a:link,
+	a:visited {
+		text-decoration: none;
+		color: #BE9466;
+	}
+	a:hover {
+		text-decoration: underline; 
+		color: #BE9855;
+	}
+	a:active {
+		text-decoration: none
+	}
 
 h1 {
   font-family: "Open Sans", sans-serif;
