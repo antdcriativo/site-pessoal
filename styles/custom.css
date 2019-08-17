@@ -62,4 +62,6 @@ img{
 
 .divider {
 	margin: 25px auto 20px auto;
+	width: 7%;
+	border: opacity solid #d3d3d3;
 }
