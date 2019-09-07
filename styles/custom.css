@@ -5,7 +5,7 @@
 body {
   font-family: "Merriweather", serif;
   font-size: 20px;
-  font-weight: 400;
+  font-weight: 400px;
 }
 
 a,
@@ -19,15 +19,12 @@ a,
 		color: #BE9855;
 	}
 	a:active {
-		text-decoration: none
+		text-decoration: none;
 	}
 
 h1 {
   font-family: "Open Sans", sans-serif;
   font-weight: 700;
-}
-
-h1 {
   font-size: 50px;
   letter-spacing: -2px;
   line-height: 50px;
