@@ -62,3 +62,8 @@ img{
 	width: 7%;
 	border: opacity solid #d3d3d3;
 }
+
+.disclaimer {
+  color: #fff
+  border: 0 !important;
+}
